@@ -9,7 +9,7 @@
  */
 
 /**
- * Filtrar als peticiones entrantes y las reemplaza por la de Bunny.
+ * Filtra las peticiones entrantes y las reemplaza por las de Bunny.
  */
 function fuentes_bunny_src( $src ){
 
