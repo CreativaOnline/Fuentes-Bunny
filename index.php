@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Fuentes Bunny.
  * Plugin URI: https://creativaonline.es
- * Description: Cambie las fuentes de Google por Bunny Fonts para que las fuentes cumplan con GDPR.
+ * Description: Cambie las fuentes de Google por Bunny Fonts para que las fuentes cumplan con el GDPR.
  * Author: CreativaOnline
  * Version: 1.0
  * Author URI: https://creativaonline.es
